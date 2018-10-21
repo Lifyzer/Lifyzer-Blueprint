@@ -34,16 +34,17 @@ For older people (or even younger), it became really hard and tedious to read th
 
 Why not to build a food scanner app that gives in a pleasant way everything the consumer wants to know (calories, ingredients, allergy, etc) The consumer will just have to download once the app on his phone and then, scan the barcode of any items to have the result showed nicely (with graph, chart, images). In short, your app will displayed all product's information in a much better and pleasant way than it is written on the product.
 
-To help building a such app, you have already great databases (some are free) containing millions of items' information.
+To help building such an app, you have already great databases (some are free) containing millions of items' information.
 
 
-## The TripAdvicer for Food!
+## The TripAdvisor for Food!
 
-You already have apps that give recommendations for restaurants, hotels, etc (such as tripadviser), but there aren't such thing for foodstuffs. Why not to offer to customers to rate any food items they buy (with ratings, reviews, price-quality).
+You already have apps that give recommendations for restaurants, hotels, etc (such as TripAdvisor), but there aren't such things for foodstuffs. Why not to offer to customers to rate any food items they buy (with ratings, reviews, price-quality).
 
 
+## How To Do 🚀
 
-What to Hire an Expert for building a such app/service. You might still be able [to hire me](http://ph7.me) if I have availabilities on my diary... during my weekends or evenings. Just PM me on my [LinkedIn](https://www.linkedin.com/in/ph7enry/).
+What to Hire an Expert for building such an app/service. You might still be able [to hire me](http://ph7.me) if I have availabilities on my diary... during my weekends or evenings. Just PM me on my [LinkedIn](https://www.linkedin.com/in/ph7enry/).
 
 
 Anyway, I wish you all the best! 🚀
