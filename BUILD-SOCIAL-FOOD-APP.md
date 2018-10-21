@@ -42,6 +42,18 @@ To help building such an app, you have already great databases (some are free) c
 You already have apps that give recommendations for restaurants, hotels, etc (such as TripAdvisor), but there aren't such things for foodstuffs. Why not to offer to customers to rate any food items they buy (with ratings, reviews, price-quality).
 
 
+## The A/B Testing App for Retailers/Supermarkets
+
+Create an iOS/Android **Marketing Food App**, which allows retailers to substantially increase their sales by doing A/B testings (split tests).
+
+For instance, the app will allow taking photos of the food items in shops, and each time the retailers move the items somewhere else, on other stands/shelfs in the store, the app shows on what shelf the items sell the best (thanks the income records and the locations in the grocery store, etc).
+
+You will be able to sell this kind of app directly to food companies with a monthly price (e.g. $599/mo).
+If your app can substantially increase the incomes of retailers, you will have a guaranteed success (and competitors of this kind of apps are still little! So, it's NOW or NEVER 🙂).
+
+*Be a little creative, be close to the market and built a MVP with a basic and simple app for retailers and validate your idea.*
+
+
 ## How To Do 🚀
 
 What to Hire an Expert for building such an app/service. You might still be able [to hire me](http://ph7.me) if I have availabilities on my diary... during my weekends or evenings. Just PM me on my [LinkedIn](https://www.linkedin.com/in/ph7enry/).
