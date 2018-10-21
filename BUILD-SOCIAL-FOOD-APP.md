@@ -2,14 +2,14 @@
 
 ## You the One to Launch The Next Billion Dollar Startup?
 
-*Why building a food app?*
+*Why Building a Food App? 👷‍♂️*
 
 More and more people take care of what they are eating.
 It's fashion, it's important, it's primordial.
 Building something great around food and lifestyle and one the the greatest niche for 2018-2020.
 
-## Healthy Food has never been so important!
-People are paying more and more attention to their diet! And food is the MAINSTREAM thing.
+## Healthy Food has never been so Important!
+People are paying more, more and more attention to their diet and health! And food is the MAINSTREAM thing.
 
 
 # A FoodApp..., Like what...?
