@@ -1,4 +1,4 @@
-# 🍅 Build a Successful Food App | The Social Food Market 🍏
+# 🍅 Build a Successful Food App | The Social FoodMarket 🍏
 
 ## You the One to Launch The Next Billion Dollar Startup?
 
